@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @colteracode
-- 👀 I’m interested in data opportunities.
+- 👋 Hi, I’m @colteracodes
+- 👀 I’m interested in feel good projects and remote opportunities. 
 - 🌱 I’m currently learning it all.
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate projects which focus on the greater good of the 🌎. 
+- 📫 How to reach me ... colteracodes@gmail.com
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
 
 <!---
